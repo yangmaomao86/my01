@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\my01\\myportal01\\myportal01.csproj",
+      "projectUniqueName": "F:\\GithubProjects\\my01\\myportal01\\myportal01.csproj",
       "projectName": "myportal01",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\my01\\myportal01\\myportal01.csproj",
+      "projectPath": "F:\\GithubProjects\\my01\\myportal01\\myportal01.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\my01\\myportal01\\obj\\",
+      "outputPath": "F:\\GithubProjects\\my01\\myportal01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
