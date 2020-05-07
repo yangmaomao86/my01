@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IFFDexDDJis58XFU7pdPB7jyj9SC/mG9bkGSqq5JVnWT8Pe5mDYtsHOGIo0KM4uM+wiG/FfWuysL67bQmwpRYg==",
+  "dgSpecHash": "uJP8j343fcsWcJyARbNCSMvVECQ5e2O9pYvF5aoqBzHx+WeKwn6E1XPrgBVQ9u7mEDSQE3NBWLYdnaJfV4ps3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\36449\\Documents\\Tencent Files\\364495335\\FileRecv\\MobileFile\\NetCliProjects\\CLIConsole01\\bin\\Debug\\netcoreapp3.1\\cmd_demo\\myportal01\\myportal01.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\my01\\myportal01\\myportal01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
